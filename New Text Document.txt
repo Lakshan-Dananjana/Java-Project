@@ -1,0 +1,3 @@
+database name = school
+import the project lms zip file in netbeans
+create a database using xampp server
